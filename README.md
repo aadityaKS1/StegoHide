@@ -1,6 +1,6 @@
 # StegoHide
 
-Hide secret messages inside images — encrypted with AES before embedding.
+Hide secret messages inside images - encrypted with AES before embedding.
 Wrong password? You get nothing.
 
 ---

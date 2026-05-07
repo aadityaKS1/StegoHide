@@ -19,6 +19,7 @@ Two operations:
 ---
 
 ## How It Works
+```
 Message + Password
 ↓
 AES Encryption
@@ -39,7 +40,7 @@ AES Decryption
 Original Message
 
 ---
-
+```
 ## Project Structure
 ```
 
